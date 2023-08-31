@@ -4,7 +4,7 @@ import Lupa from "../assets/Vector.svg";
 
 function Header() {
   return (
-    <div>
+    <div className="mb-8">
       <header className="pt-4 px-36">
         <div className="container flex justify-between items-center">
           <div className="">
